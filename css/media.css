@@ -1,0 +1,347 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*nav bar*/
+	.mine_toggle{
+    text-align: left!important;
+}
+/*banner start*/
+	.banner_text {
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+	.banner_text h5 {
+    font-size: 16px;
+}
+.banner_text h1 {
+    font-size: 25px;
+}
+.banner_text p {
+    font-size: 15px;
+}
+.mine_b_s{
+	text-align: center !important;
+	font-size: 15px !important;
+	font-weight: 400px !important;
+	padding: 5px 10px;
+}
+.mine_b_s1 {
+    margin-top: 10px;
+    margin-left: 0;
+}
+/*service start*/
+.space{
+	padding: 50px 0;
+}
+.common{
+	text-align: center;
+	margin-top: 15px;
+}
+/*our service start*/
+.services{
+	background-image: none;
+	background-color: #202020;
+}
+.service_text {
+    text-align: center;
+}
+/*case studey start*/
+.content_up {
+	position: relative;
+    padding: 15px 25px;
+    margin: 30px 0;
+}
+.mine_c {
+    bottom: -25px !important;
+}
+.mine_c li{
+	width: 10px;
+	height: 10px;
+}
+.case_pragraph {
+    margin: 16px 0;
+}
+/*count section start*/
+.count_bg{
+	background-image: none;
+	background-color: #0b0301;
+}
+/*our team start*/
+.team_bg{
+	background-image: none;
+	background-color: #222222;
+}
+.line_rotate {
+    margin: auto;
+}
+/*footer start*/
+.for_res{
+	text-align: center;
+}
+.footer_end{
+	text-align: center !important;
+}
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*nav bar*/
+	.mine_toggle{
+    text-align: left!important;
+}
+/*banner start*/
+	.banner_text {
+    margin-top: 130px;
+    margin-bottom: 170px;
+}
+	.banner_text h5 {
+    font-size: 20px;
+}
+.banner_text h1 {
+    font-size: 30px;
+}
+.banner_text p {
+    font-size: 15px;
+}
+.mine_b_s{
+	font-size: 16px !important;
+	font-weight: 400px !important;
+	padding: 10px 15px;
+}
+/*service start*/
+.space{
+	padding: 70px 0;
+}
+/*history start*/
+.common{
+	text-align: center;
+	margin-top: 15px;
+}
+/*our service start*/
+.services{
+	background-image: none;
+	background-color: #202020;
+}
+.service_text {
+    text-align: center;
+}
+/*case studey start*/
+.content_up {
+	position: relative;
+    padding: 15px 25px;
+    margin: 30px 0;
+}
+.mine_c {
+    bottom: -25px !important;
+}
+.mine_c li{
+	width: 10px;
+	height: 10px;
+}
+.case_pragraph {
+    margin: 16px 0;
+}
+/*count section start*/
+.icon_border{
+	font-size: 25px;
+    padding: 40px 40px;
+    margin-bottom: 25px;
+}
+.common_count{
+	font-size: 25px;
+}
+.common_section{
+	font-size: 15px;
+}
+/*our team start*/
+.team_bg{
+	background-image: none;
+	background-color: #222222;
+}
+/*our team start*/
+.line_rotate {
+    margin: auto;
+}
+/*footer start*/
+.for_res{
+	text-align: center;
+}
+.footer_end{
+	text-align: center !important;
+}
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*nav bar*/
+	.mine_toggle{
+    text-align: left!important;
+}
+/*banner start*/
+	.banner_text {
+    margin-top: 150px;
+    margin-bottom: 190px;
+}
+	.banner_text h5 {
+    font-size: 20px;
+}
+.banner_text h1 {
+    font-size: 40px;
+}
+.banner_text p {
+    font-size: 15px;
+}
+/*service start*/
+.space{
+	padding: 80px 0;
+}
+/*history start*/
+.common{
+	text-align: center;
+	margin-top: 15px;
+}
+/*our service start*/
+.services{
+	background-image: none;
+	background-color: #202020;
+}
+.service_text {
+    text-align: center;
+}
+/*case studey start*/
+.content_up {
+    padding: 15px 25px;
+    margin: 30px 0;
+}
+.mine_c {
+    bottom: -25px !important;
+}
+.mine_c li{
+	width: 10px;
+	height: 10px;
+}
+.case_pragraph {
+    margin: 16px 0;
+}
+/*count section start*/
+.icon_border{
+	font-size: 25px;
+    padding: 40px 40px;
+    margin-bottom: 25px;
+}
+.common_count{
+	font-size: 25px;
+}
+.common_section{
+	font-size: 15px;
+}
+
+/*our team start*/
+.team_m_u{
+	margin-top: 140px;
+}
+.team_m1_u{
+	margin-top: 130px;
+}
+.team_m2_u{
+	margin-top: 130px;
+}
+.team_m3_u{
+	margin-top: 160px;
+}
+.team_m4_u{
+	margin-top: 175px;
+}
+.line_rotate {
+    margin: 20px 15px;
+}
+/*footer start*/
+.for_res{
+	text-align: center;
+}
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*banner start*/
+	.banner_text {
+    margin-top: 180px;
+    margin-bottom: 210px;
+}
+	.banner_text h5 {
+    font-size: 22px;
+}
+.banner_text h1 {
+    font-size: 60px;
+}
+.banner_text p {
+    font-size: 15px;
+}
+/*case studey start*/
+.content_up {
+    padding: 35px 45px;
+    margin: 40px 0;
+}
+.mine_c {
+    bottom: -35px !important;
+}
+/*our price start*/
+.pricing_head .pricing_price {
+    left: 25%;
+    bottom: -25%;
+}
+/*our team start*/
+.team_m_u{
+	margin-top: 140px;
+}
+.team_m1_u{
+	margin-top: 130px;
+}
+.team_m2_u{
+	margin-top: 130px;
+}
+.team_m3_u{
+	margin-top: 160px;
+}
+.team_m4_u{
+	margin-top: 175px;
+}
+.line_rotate {
+    margin: 20px 35px;
+}
+/*blog start*/
+.blog_edit {
+    padding: 25px 30px;
+}
+.arrow_shape {
+    padding: 25px 30px;
+}
+/*keep in touch start*/
+.contact_us {
+    padding: 82px 70px;
+}
+.input_form {
+    padding: 77px 70px;
+}
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+/*blog start*/
+.blog_edit {
+    padding: 25px 30px;
+}
+.arrow_shape {
+    padding: 25px 30px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+/*blog start*/
+.blog_edit {
+    padding: 36px 30px;
+}
+.arrow_shape {
+    padding: 36px 30px;
+}
+}
