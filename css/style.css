@@ -111,15 +111,19 @@ header{
 	border-radius: 2px;
 	transition: 0.5s;
 }
-.service_border:hover{
-	 transform: rotate(45deg);
+.style_hover:hover .service_border{
+	transform: rotate(45deg);
 }
+.style_hover:hover .service_border i{
+	transform: rotate(-45deg);
+}
+.style_hover:hover .text_none{
+	color: #e74c3c;
+}
+
 .icon{
 	padding: 30px 30px;
 	transition: 0.5s;
-}
-.icon:hover{
-	transform: rotate(-45deg);
 }
 .text_none{
 	font-size: 18px;
@@ -131,7 +135,6 @@ header{
 .text_none:hover{
 	text-decoration: none;
 	color: #e74c3c;
-
 }
 .line{
 	border: 1px solid #888888;
