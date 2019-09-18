@@ -590,8 +590,7 @@ header{
 	background-color: white;
 }
 .color_over:hover{
-	color: white;
-	background-color: red;
+	box-shadow: 0 6px 4px -4px #bcbcbc;
 }
 /*great end*/
 /*our blog start*/
