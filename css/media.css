@@ -28,6 +28,9 @@
     margin-top: 10px;
     margin-left: 0;
 }
+.carousel_indicatior a {
+    margin: 75% 3%;
+}
 /*service start*/
 .space{
 	padding: 50px 0;
@@ -107,6 +110,9 @@
 	font-weight: 400px !important;
 	padding: 10px 15px;
 }
+.carousel_indicatior a {
+    margin: 55% 3%;
+}
 /*service start*/
 .space{
 	padding: 70px 0;
@@ -161,6 +167,13 @@
 .line_rotate {
     margin: auto;
 }
+/*our blog start*/
+.blog_edit {
+    padding: 34px 35px;
+}
+.arrow_shape {
+    padding: 34px 35px;
+}
 /*footer start*/
 .for_res{
 	text-align: center;
@@ -189,6 +202,9 @@
 }
 .banner_text p {
     font-size: 15px;
+}
+.carousel_indicatior a {
+    margin: 45% 5%;
 }
 /*service start*/
 .space{
@@ -254,10 +270,18 @@
 .line_rotate {
     margin: 20px 15px;
 }
+/*our blog start*/
+.blog_edit {
+    padding: 69px 35px;
+}
+.arrow_shape {
+    padding: 69px 35px;
+}
 /*footer start*/
 .for_res{
 	text-align: center;
 }
+
 }
 
  /*Large devices (desktops, 992px and up)*/
@@ -275,6 +299,9 @@
 }
 .banner_text p {
     font-size: 15px;
+}
+.carousel_indicatior a {
+    margin: 40% 5%;
 }
 /*case studey start*/
 .content_up {
@@ -310,10 +337,10 @@
 }
 /*blog start*/
 .blog_edit {
-    padding: 25px 30px;
+    padding: 21px 30px;
 }
 .arrow_shape {
-    padding: 25px 30px;
+    padding: 21px 30px;
 }
 /*keep in touch start*/
 .contact_us {
@@ -322,26 +349,27 @@
 .input_form {
     padding: 77px 70px;
 }
+
 }
 
  /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) and (max-width: 1399.99px) {
 /*blog start*/
-.blog_edit {
-    padding: 25px 30px;
+/*.blog_edit {
+    padding: 21px 30px;
 }
 .arrow_shape {
-    padding: 25px 30px;
-}
+    padding: 21px 30px;
+}*/
 }
 
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1400px) {
 /*blog start*/
 .blog_edit {
-    padding: 36px 30px;
+    padding: 57px 30px;
 }
 .arrow_shape {
-    padding: 36px 30px;
+    padding: 57px 30px;
 }
 }
